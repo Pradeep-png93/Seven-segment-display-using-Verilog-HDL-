@@ -57,7 +57,8 @@ module seven_segment_display (
     end
 endmodule
 
-Output:![image](https://github.com/user-attachments/assets/61c4dc4a-53f4-4c2b-b91b-d833ddb01943)
+Output:![image](https://github.com/user-attachments/assets/212d1b27-67b1-48f8-9a83-dd05fd8e706e)
+
  
 
 Testbench for Seven-Segment Display:
